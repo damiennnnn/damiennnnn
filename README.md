@@ -3,16 +3,6 @@
 ### I'm currently working as a Software Engineer for Spectrum @ AVEVA, focused on C# and Azure development.  
 ***
 
-### I may occasionally tinker or contribute, but don't look too much into my personal projects (they're old and hacky 😄)  
-  
-But here's a couple of things I've done:
-- **Taleria** WIP [Repo](https://github.com/damiennnnn/Taleria)
-  - C# Postman-esque API client, with OpenAPI and Azure API Management integration 
-- **ProcGen** WIP
-  - Perlin noise based procedural generation
-  
-***
-
 
 > Any contributions made from this account are my own and not performed as part of my employment with AVEVA Group (unless explicitly stated), nor do they not necessarily reflect the views of the AVEVA Group.
 > 
